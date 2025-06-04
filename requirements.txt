@@ -1,0 +1,6 @@
+streamlit
+openai
+pandas
+psycopg2 
+st-paywall
+authlib
