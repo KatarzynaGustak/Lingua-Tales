@@ -307,6 +307,7 @@ def render_story_display():
             st.markdown(f"""
             <div style="
                 background-color: #f0f2f6;
+                color: black;
                 padding: 20px;
                 border-radius: 10px;
                 border-left: 5px solid #ff6b6b;
